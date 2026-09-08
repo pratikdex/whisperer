@@ -1,0 +1,10 @@
+{
+  "modelPath": "Models/ggml-large-v3-turbo.bin",
+  "language": "auto",
+  "cleanupEnabled": false,
+  "cleanupModel": "qwen3:4b",
+  "maxRecordingSeconds": 120,
+  "silenceThreshold": 0.003,
+  "useGPU": false,
+  "transcriptionTimeoutSeconds": 60
+}

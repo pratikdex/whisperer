@@ -1,0 +1,6 @@
+build/
+Vendor/build-apple/
+Vendor/*.zip
+Models/*.bin
+Models/*.part
+.DS_Store
